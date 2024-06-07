@@ -1,0 +1,15 @@
+.content {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding-top: 5em;
+    padding-bottom: 10em;
+    
+    background-color: #121214;
+    width: 100%;
+
+
+}
