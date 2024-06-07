@@ -1,0 +1,43 @@
+.logo {
+
+
+    display: flex;
+    flex-direction: row;
+    
+
+
+
+
+}
+
+.logo  p {
+
+
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+    
+
+
+
+
+}
+
+
+.logo #p1 {
+
+
+    color: #E07867;
+    font-family: 'Inter';
+
+
+}
+
+.logo #p2 {
+
+
+    color: #ffffff;
+
+    font-family: 'Inter';
+
+}

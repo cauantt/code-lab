@@ -1,0 +1,15 @@
+.header {
+
+
+
+    width: 100vw;
+    background-color: #17171A;
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+    padding: 3em;
+    justify-content: center;
+    align-items: center;
+
+
+}
